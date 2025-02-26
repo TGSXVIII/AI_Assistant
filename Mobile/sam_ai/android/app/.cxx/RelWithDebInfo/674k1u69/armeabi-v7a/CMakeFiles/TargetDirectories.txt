@@ -1,0 +1,2 @@
+C:/Users/mads020n/source/repos/Sam/Mobile/sam_ai/android/app/.cxx/RelWithDebInfo/674k1u69/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/mads020n/source/repos/Sam/Mobile/sam_ai/android/app/.cxx/RelWithDebInfo/674k1u69/armeabi-v7a/CMakeFiles/rebuild_cache.dir
